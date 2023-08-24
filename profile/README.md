@@ -34,6 +34,13 @@ The first and foremost step in the wiki bio generation is curating quality data 
     - Scrape existing biographies of women in STEMM from Wikipedia and leverage large language models to extract relationships and label them. Using the extracted relationships, regenerate the original wiki bio. The original bio, the extracted relationships, and the regenerated wiki bio can be quality checked through a hackathon and then used for fine-tuning instruction-based models. Using appropriate large language models as few-shot learners will help in generating data faster.
     - A google form has been designed with relevant fields that can be circulated to academic institutions, organisations and the public to collect more information on notable women they personally know in their respective fields.
 
+** 2.Distil knowledge into human-verifiable Intermediate Knowledge Representation (IKR):**
+
+Once relevant data is obtained either through manual data curation or using the user interface built to collect it, information theoretical constructs (with or without ML) are used to extract relationships, label and sort information. Both rule-based and ML approaches have been tried to extract relationships but most of the methods failed to capture complex relationships and provided inaccurate results.
+
+Large language models (LLM) are leveraged here to extract complex and almost accurate relationships and the extracted IKR is termed as factoids here. At this stage, the factoids are subjected to human validation and corrected for any misinformation by validating it against the data obtained at the first stage of data curation. A back reference is always maintained to the original data source from which the factoids are extracted.
+
+
 
 <!--
 
