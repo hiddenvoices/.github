@@ -23,6 +23,18 @@ Contributing to Wikipedia is a labour-intensive process and it is completely man
 
 The Hidden Voices project has been started to address the ever-widening critical data gap that exists, build tools to systematically reduce the gap at scale and to reduce the cost of participation in curating reliable biographies. The project will be an instance of a human-allied AI execution. While state-of-the-art automated language processing has significantly advanced, there are situations when the AI will make errors. This is especially true when processing documents about underrepresented populations, the very fact that this project is trying to address. Building products and services that are inclusive at the core is the mission of Hidden Voices. 
 
+### The Approach:
+The proposed system has three stages or pipelines, 
+
+**1. Gathering and compiling pre-existing information:**
+
+The first and foremost step in the wiki bio generation is curating quality data that includes women in STEMM who have done notable things in their respective fields but do not have representation on Wikipedia. Multiple reliable sources need to be identified and publicly available information must be curated. This can be accomplished by scraping the information published in the media, the public domain or asking people in different domains to provide details about accomplished women in their respective fields.
+  - Dataset Curation: In order to collect information on such notable women, the following approaches are being used:
+    - Obtain a list of past PhD graduates from academic institutions in India (specifically women who have graduated in the past) and get their publicly available social information by scraping the web.
+    - Scrape existing biographies of women in STEMM from Wikipedia and leverage large language models to extract relationships and label them. Using the extracted relationships, regenerate the original wiki bio. The original bio, the extracted relationships, and the regenerated wiki bio can be quality checked through a hackathon and then used for fine-tuning instruction-based models. Using appropriate large language models as few-shot learners will help in generating data faster.
+    - A google form has been designed with relevant fields that can be circulated to academic institutions, organisations and the public to collect more information on notable women they personally know in their respective fields.
+
+
 <!--
 
 **Here are some ideas to get you started:**
