@@ -40,6 +40,13 @@ Once relevant data is obtained either through manual data curation or using the 
 
 Large language models (LLM) are leveraged here to extract complex and almost accurate relationships and the extracted IKR is termed as factoids here. At this stage, the factoids are subjected to human validation and corrected for any misinformation by validating it against the data obtained at the first stage of data curation. A back reference is always maintained to the original data source from which the factoids are extracted.
 
+** 3. Wiki-like text generation from intermediate data:**
+
+The extracted factoids along with reference to sources are used in generating Wikipedia-style biographies. Generative large language models are leveraged here. Hallucinations are a common problem when using large language models. To mitigate it, human validation is done in the IKR pipeline and only the accurate information is passed to the wiki text generation phase. Once the wiki style biography is generated, the user interface allows for editing the presented biography for inconsistencies or adding additional verified information about the women.
+
+At each stage, human evaluation is done to check the quality of the data before it is passed on to the next stage. This helps in mitigating the hallucinations of the large language models and improving the data quality at all levels. 
+
+
 
 
 <!--
