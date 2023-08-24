@@ -4,16 +4,17 @@ Hidden Voices is an open source project managed by Robert Bosch Center for Data 
 
 ### Motivation:
 As a technically skilled woman in the STEMM field, try answering the following questions, honestly.
-- Do you wish you had ways to find experts that looked like you in your domain? 
+- Do you wish you had ways to find experts that look like you in your domain? 
 - Were you frustrated that LinkedIn won't allow you to search for people by gender? 
 - Do you not see any news about anyone who looks like you in the media or press? 
 - Do you wish your women colleagues would get more recognition for the work they do within your community and outside your community?
 
-Most of you would have answered yes to almost all of the questions above. Search engines generally use data scraped from publicly available websites and forums. There is an inherent gender gap existing in digital data in some of the most used websites and Wikipedia is one among them which is the only not-for-profit organisation. The issue is not the absence of women achievers in STEMM field; instead it is the reduced representation of such women in public sources like Wikipedia. Infact, a 2021 study found that, in April 2017, 41% of biographies nominated for deletion in Wikipedia were women despite only 17% of published biographies being women. Of the roughly 1.5 million biographical articles on the English Wikipedia in 2021, only 19% were about women.
-Few years back, when you searched for a woman achievers’ full name in search engines like Google Search, it used to pull up the Wikipedia biographies of male counterparts who had similar last names instead. The visibility and reachability of women on Wikipedia is limited, with a 2015 report finding that female pages generally "tend to be more linked to men". 
+Most of you would have answered yes to almost all of the questions above. Search engines generally use data scraped from publicly available websites and forums. There is an inherent gender gap existing in digital data in some of the most used websites and Wikipedia is one among them which is the only not-for-profit organisation. The issue is not the absence of women achievers in STEMM field; instead, it is the reduced representation of such women in public sources like Wikipedia. In fact, a 2021 study found that, in April 2017, 41% of biographies nominated for deletion on Wikipedia were women, despite only 17% of published biographies being women. Of the roughly 1.5 million biographical articles on the English Wikipedia in 2021, only 19% were about women.
+A few years back, when you searched for a woman achievers’ full name in search engines like Google Search, it used to pull up the Wikipedia biographies of male counterparts who had similar last names instead. The visibility and reachability of women on Wikipedia is limited, with a 2015 report finding that female pages generally "tend to be more linked to men". 
 
-People generally refer to the biographies of accomplished personalities in Wikipedia since the data for Wikipedia is manually curated and validated by human editors. These editors are volunteers who do free labour. Also, Wikipedia has a set of rules called [notability](https://en.wikipedia.org/wiki/Wikipedia:Notability) criteria which allows the editors to determine if a person or a topic deserves its own article. Some potential issues with how Wikipedia curates data are the following,
-- There is a greater chance that the editors may not be even experts of their fields and will come with some inherent societal biases.
+People generally refer to the biographies of accomplished personalities on Wikipedia, since the data for Wikipedia is manually curated and validated by human editors. These editors are volunteers who do free labour. Also, Wikipedia has a set of rules called [notability](https://en.wikipedia.org/wiki/Wikipedia:Notability) ccriteria which allow the editors to determine if a person or a topic deserves its own article. Some potential issues with how Wikipedia curates data are the following:
+
+- There is a greater chance that the editors may not be even experts in their fields and will come up with some inherent societal biases.
 - Who decides the notability of a person or a topic?
 - How many of the Wikipedia editors are actually women? There are some official numbers that can be found here: [Gender Bias on Wikipedia](https://en.wikipedia.org/wiki/Gender_bias_on_Wikipedia).
 
