@@ -48,6 +48,9 @@ At each stage, human evaluation is done to check the quality of the data before 
 
 ![alt text](https://github.com/hiddenvoices/.github/blob/main/resources/architecture_simple.png?raw=true)
 
+### Publishing the biographies:
+The generated biographies will be published in the Hidden Voices repository, provided consent is obtained from the person before their biographies are made public. The published biographies will be available for anyone to view who needs to find experts in their respective fields. By making the biographies of women in STEMM public, any misinformation about them can be corrected by others and verified by the experts themselves. All the source links from where the data is collected will also be available for anyone to verify. Apart from maintaining the biographies at the Hidden Voices repository, they will also be submitted to Wikipedia for approval. Wikipedia has its own criteria for notability, and the article has to pass the criteria to be published as a biography. Hidden Voices will continue to host all the consented biographies, even if they are not published successfully in Wikipedia, and serve as a single source of truth to find women in STEMM.
+
 
 ### How can you make a difference?
 
