@@ -46,7 +46,7 @@ The extracted factoids along with reference to sources are used in generating Wi
 
 At each stage, human evaluation is done to check the quality of the data before it is passed on to the next stage. This helps in mitigating the hallucinations of the large language models and improving the data quality at all levels. 
 
-
+![alt text](https://github.com/hiddenvoices/.github/blob/main/resources/architecture_simple.png?raw=true)
 
 
 <!--
