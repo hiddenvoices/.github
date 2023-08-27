@@ -49,6 +49,19 @@ At each stage, human evaluation is done to check the quality of the data before 
 ![alt text](https://github.com/hiddenvoices/.github/blob/main/resources/architecture_simple.png?raw=true)
 
 
+### How can you make a difference?
+
+If you consider yourself an ally to improving diversity and inclusion in the tech world, specifically in the STEMM field, you can contribute to the Hidden Voices initiative by doing the following:
+
+- Be an advocate. Spread the word about the initiative in your network.
+- Conduct a bio-hackathon to collect data as part of the events you organise (the HV project team will support you with all the necessary kits and share the how-tos).
+- Nominate female achievers who have contributed to your field through this [form](https://forms.gle/jyfbwUYYKCvyZ9JEA) or our UI (work in progress).
+- Be an informed digital citizen and ally of women in your domain of knowledge and professional sphere.
+- If you are a content creator, media person, or event organiser, then use our directory to find experts to deliver talks, be part of panel discussions, etc.
+- Do cite us if you’re using our tool.
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
