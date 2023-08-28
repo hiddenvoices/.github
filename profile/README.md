@@ -1,6 +1,6 @@
 ## Hidden Voices: Biographies of women achievers that are hidden no more!
 
-Hidden Voices is an open source project managed by Robert Bosch Center for Data Science and Artificial Intelligence (RBCDSAI) and SuperBloom Studios in collaboration with the IITMAA. The project is created to reduce the gender data gap in Wikipedia and to build an inclusive internet. The objective of Hidden Voices is to develop information theoretical approaches, ML assisted auto identification and validation of external sources of data and generative AI methods to auto-generate a first draft of Wikipedia-style biography for notable women in STEMM.
+Hidden Voices is an open source project managed by Robert Bosch Center for Data Science and Artificial Intelligence [RBCDSAI](https://rbcdsai.iitm.ac.in/) and [Superbloom Studios](https://www.superbloomstudios.co/) in collaboration with [Denvr Dataworks](https://www.denvrdata.com/), [Swecha Telangana](https://swecha.org/), and [IITMAA](https://iitmaa.org/). The project is created to reduce the gender data gap in Wikipedia and to build an inclusive internet. The objective of Hidden Voices is to develop information theoretical approaches, ML assisted auto identification and validation of external sources of data and generative AI methods to auto-generate a first draft of Wikipedia-style biography for notable women in STEMM.
 
 ### Motivation:
 As a technically skilled woman in the STEMM field, try answering the following questions, honestly.
